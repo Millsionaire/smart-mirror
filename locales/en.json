@@ -111,7 +111,7 @@
             "description": "Stops the playback of video content."
         },
         "image_giphy": {
-            "text": "Giphy ________",
+            "text": "Show me a gif of ________",
             "voice": "giphy *img",
             "description": "Shows a Giphy image."
         },
