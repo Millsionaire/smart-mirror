@@ -112,7 +112,7 @@
         },
         "image_giphy": {
             "text": "Show me a gif of ________",
-            "voice": "giphy *img",
+            "voice": "show a gif of *img",
             "description": "Shows a Giphy image."
         },
         "image_comic": {
