@@ -1,4 +1,5 @@
 node_modules
+config.js
 .idea
 npm-debug.log
 .DS_Store
@@ -7,3 +8,5 @@ fb-token.json
 speech/snowboydecoder.pyc
 speech/snowboydetect.pyc
 GoogleOAuthIDandSecret.txt
+.vscode
+keyfile.json
