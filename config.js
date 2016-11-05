@@ -10,8 +10,8 @@ var config = {
         sensitivity : 1, // Keyword getting too many false positives or not detecting? Change this.
         continuous: false // After a keyword is detected keep listening until speech is not heard
     },
-    // layout: "main",
-    layout: "icesnow",
+    layout: "main",
+    // layout: "icesnow",
     // greeting : ["Hi, Millsionaire!"], // An array of greetings to randomly choose from
 
     // Alternativly you can have greetings that appear based on the time of day
